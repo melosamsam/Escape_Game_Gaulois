@@ -16,9 +16,11 @@ public class Teleportation : MonoBehaviour
 
     void Start()
     {
+    }
+    public void TPongrab()
+    {
         XR_Rig.position = newPosition.position;
     }
-
     void Update()
     {
     }
