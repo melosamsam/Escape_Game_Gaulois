@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Potion
+  - Staff
+  - Hammer
+  - Ring
+  - Fish
+  - Sickle
+  - Vase
   layers:
   - Default
   - TransparentFX

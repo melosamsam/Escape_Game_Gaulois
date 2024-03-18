@@ -5986,6 +5986,7 @@ GameObject:
   - component: {fileID: 119149756}
   - component: {fileID: 119149758}
   - component: {fileID: 119149757}
+  - component: {fileID: 119149759}
   m_Layer: 0
   m_Name: Socket_Rose
   m_TagString: Untagged
@@ -6091,6 +6092,19 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.5618787, y: 0.10149056, z: 0.62485504}
   m_Center: {x: -0.004689455, y: -0.415633, z: -0.3193016}
+--- !u!114 &119149759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 119149755}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3204aeab839f6f641ad2c4682029e763, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isOccupied: 0
 --- !u!1001 &125588342
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11952,6 +11966,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Sickle_001
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: aede26595ab727a4d8128f7ddfc53788,
+        type: 3}
+      propertyPath: m_TagString
+      value: Sickle
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19052,6 +19071,7 @@ GameObject:
   - component: {fileID: 655178316}
   - component: {fileID: 655178318}
   - component: {fileID: 655178317}
+  - component: {fileID: 655178319}
   m_Layer: 0
   m_Name: Socket_Hammer
   m_TagString: Untagged
@@ -19157,6 +19177,19 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 0.10149056, z: 1.1019135}
   m_Center: {x: 0, y: -0.415633, z: -0.06297302}
+--- !u!114 &655178319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 655178315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be66536b5842271439d62c95b5da6f28, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isOccupied: 0
 --- !u!4 &666223194 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4001665144161304, guid: 111549fa332d30b4d93ee7a79fca0218,
@@ -19352,6 +19385,7 @@ GameObject:
   - component: {fileID: 682009598}
   - component: {fileID: 682009600}
   - component: {fileID: 682009599}
+  - component: {fileID: 682009601}
   m_Layer: 0
   m_Name: Socket_Fish
   m_TagString: Untagged
@@ -19457,6 +19491,19 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 0.10149056, z: 1.1019135}
   m_Center: {x: 0, y: -0.415633, z: -0.06297302}
+--- !u!114 &682009601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 682009597}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fdac14b8346dba4a940325ed1f84085, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isOccupied: 0
 --- !u!1 &693443707
 GameObject:
   m_ObjectHideFlags: 0
@@ -20494,6 +20541,7 @@ GameObject:
   - component: {fileID: 795119298}
   - component: {fileID: 795119300}
   - component: {fileID: 795119299}
+  - component: {fileID: 795119301}
   m_Layer: 0
   m_Name: Socket_Sickle
   m_TagString: Untagged
@@ -20599,6 +20647,19 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 0.10149056, z: 1}
   m_Center: {x: 0, y: -0.415633, z: 0}
+--- !u!114 &795119301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 795119297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dfbb5515fddd004989f3b526895a355, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isOccupied: 0
 --- !u!1001 &814695148
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20668,6 +20729,18 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 969707496}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &824160340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 824160334}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e5f92b453a4c742a7366ac75f1ab79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &836809900 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4510011695960072, guid: 785a9490449c6894ca2821159f46fc6d,
@@ -20691,6 +20764,7 @@ GameObject:
   - component: {fileID: 855929930}
   - component: {fileID: 855929932}
   - component: {fileID: 855929931}
+  - component: {fileID: 855929933}
   m_Layer: 0
   m_Name: Socket_Ring
   m_TagString: Untagged
@@ -20796,6 +20870,19 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 0.10149056, z: 1}
   m_Center: {x: 0, y: -0.415633, z: 0}
+--- !u!114 &855929933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 855929929}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aa858f5a2109e04391a22df5cda6f13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isOccupied: 0
 --- !u!1 &864599529 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: aede26595ab727a4d8128f7ddfc53788,
@@ -21533,6 +21620,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hammer
       objectReference: {fileID: 0}
+    - target: {fileID: 1030995713, guid: abc00000000018352462436203036834, type: 3}
+      propertyPath: m_TagString
+      value: Hammer
+      objectReference: {fileID: 0}
     - target: {fileID: 1030995714, guid: abc00000000018352462436203036834, type: 3}
       propertyPath: m_LocalScale.x
       value: 3
@@ -21938,10 +22029,18 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2373498, guid: fb5a9652227c545d98a413cd73b80b69, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 173500, guid: fb5a9652227c545d98a413cd73b80b69,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 824160340}
   m_SourcePrefab: {fileID: 100100000, guid: fb5a9652227c545d98a413cd73b80b69, type: 3}
 --- !u!1001 &992305283
 PrefabInstance:
@@ -24028,6 +24127,7 @@ GameObject:
   - component: {fileID: 1256891525}
   - component: {fileID: 1256891527}
   - component: {fileID: 1256891526}
+  - component: {fileID: 1256891528}
   m_Layer: 0
   m_Name: Socket_Staff
   m_TagString: Untagged
@@ -24135,6 +24235,19 @@ CapsuleCollider:
   m_Height: 5.030532
   m_Direction: 1
   m_Center: {x: 0.34517288, y: 2.3483253, z: 0.2665825}
+--- !u!114 &1256891528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1256891524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c49227dd54d2884a9f0d71e5675cbd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isOccupied: 0
 --- !u!1001 &1257535720
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24855,6 +24968,10 @@ PrefabInstance:
     - target: {fileID: 115738, guid: 5d69b5929cb69f149847e5514925e042, type: 3}
       propertyPath: m_Name
       value: Gold Ring 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 115738, guid: 5d69b5929cb69f149847e5514925e042, type: 3}
+      propertyPath: m_TagString
+      value: Ring
       objectReference: {fileID: 0}
     - target: {fileID: 478822, guid: 5d69b5929cb69f149847e5514925e042, type: 3}
       propertyPath: m_LocalScale.x
@@ -30650,6 +30767,11 @@ PrefabInstance:
     - target: {fileID: 481936, guid: f244d85ca954f4336a1a7595053efbfc, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5058971889839408967, guid: 2ad000dab9a13804d93c8fcee761f739,
+        type: 3}
+      propertyPath: m_TagString
+      value: Vase
       objectReference: {fileID: 0}
     - target: {fileID: 8672091286430663326, guid: 2ad000dab9a13804d93c8fcee761f739,
         type: 3}
@@ -36826,6 +36948,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Staff_05
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: cf56ffcb6a945034cab51708f24e4c16, type: 3}
+      propertyPath: m_TagString
+      value: Staff
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: cf56ffcb6a945034cab51708f24e4c16, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.4
@@ -38356,6 +38482,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: FishV3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2206852426022253465, guid: de500f6b90f89bc4c87a6585b2dea01a,
+        type: 3}
+      propertyPath: m_TagString
+      value: Fish
       objectReference: {fileID: 0}
     - target: {fileID: 2698599783777480253, guid: de500f6b90f89bc4c87a6585b2dea01a,
         type: 3}
