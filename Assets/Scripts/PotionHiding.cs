@@ -29,7 +29,7 @@ public class PotionHiding : MonoBehaviour
 
     void Update()
     {
-        if (staffPlacedScript != null)
+        if (staffPlacedScript != null && hammerPlacedScript!= null && ringPlacedScript != null && vasePlacedScript!= null && sicklePlacedScript!=null)
         {
             if (staffPlacedScript.isOccupied)
             {
