@@ -4,24 +4,23 @@ Notre escape game ayant pour thème "Gaulois et Romains", nous avons voulu mettr
 
 Nous avons donc créé un camp romain inspiré des bandes dessinées "Astérix & Obélix" avec de nombreuses tentes, dont une plus grande : celle du centurion. Le tout est entouré de tours et murs en bois. 
 
-
+![image](https://github.com/melosamsam/Escape_Game_Gaulois/assets/103419843/adabde2b-585c-45b8-81c9-d1315529f6ed)
 
 La salle initiale de l'escape game est une maison avec un toit en paille à l'orée de la forêt : elle aussi inspirée du monde gaulois d'Astérix. Notre druide Piquenix a beaucoup voyagé et a donc ramené beaucoup de souvenirs de ses séjours à Rome : un discobole, buste de César, ... Il n'en reste pas moins un druide et dispose de bons nombres de potions !  
 
-
+![image](https://github.com/melosamsam/Escape_Game_Gaulois/assets/103419843/d520447f-b237-4c9a-8cfc-9602ee705db6)
 
 Nous avons utilisé les assets gratuits de Unity Asset Store afin de réaliser notre décor et pour certains items plus simples, nous les avons réalisés nous-même, comme le menhir à l'entrée ou les plaques de marbre avec les instructions par exemple. 
 
-
+![image](https://github.com/melosamsam/Escape_Game_Gaulois/assets/103419843/6ed82271-d760-4f96-a0e4-be95bf16df8f)
 
 Les torches allumées dans la maison et les arbres à l’extérieur contribue à l’ambiance du jeu. 
 
-
+![image](https://github.com/melosamsam/Escape_Game_Gaulois/assets/103419843/e6ad916c-8ae7-4b63-b51b-ef49cb7af305)
 
 La maison est peuplée d'objets, dont certains sont utiles aux puzzles. Ils se veulent tous le plus cohérent possible avec l'époque gallo-romaine. 
 
  
-
  
 
 # Organisation des puzzles 
