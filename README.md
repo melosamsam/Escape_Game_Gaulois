@@ -1,4 +1,4 @@
-Choix de design 
+# Choix de design 
 
 Notre escape game ayant pour thème "Gaulois et Romains", nous avons voulu mettre en scène un romain (le joueur) enfermé dans la maison du druide Piquenix après avoir essayé d'espionner le druide pour découvrir la formule de la potion magique. Celui-ci doit résoudre deux puzzles afin de créer une potion de téléportation et rentrer dans son camp. 
 
@@ -12,9 +12,7 @@ La salle initiale de l'escape game est une maison avec un toit en paille à l'or
 
 Nous avons utilisé les assets gratuits de Unity Asset Store afin de réaliser notre décor et pour certains items plus simples, nous les avons réalisés nous-même, comme le menhir à l'entrée ou les plaques de marbre avec les instructions par exemple. 
 
-Une image contenant capture d’écran, Jeu PC, Logiciel de jeu vidéo
 
-Description générée automatiquement 
 
 Les torches allumées dans la maison et les arbres à l’extérieur contribue à l’ambiance du jeu. 
 
@@ -26,7 +24,7 @@ La maison est peuplée d'objets, dont certains sont utiles aux puzzles. Ils se v
 
  
 
-Organisation des puzzles 
+# Organisation des puzzles 
 
 Cet escape game comporte deux puzzles : l’un portant sur les dieux romains, l’autre sur les potions magiques des druides. Les instructions pour les compléter sont affichées sur des plaques en marbre sur une table de la maison. 
 
